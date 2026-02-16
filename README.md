@@ -7,7 +7,8 @@ El objetivo fue analizar comunicaciones inseguras y aplicar mecanismos de protec
 
 - `capturas/` → Archivos `.pcap` con evidencias de Wireshark  
 - `CryptoPythonLab2.py` → Script de cifrado AES y transferencia por FTP  
-- `README.md` → Documentación del proyecto  
+- `README.md` → Documentación del proyecto
+- InformeEjecutivoL2.pdf → Informe Ejecutivo del laboratorio 2
 
 ---
 
